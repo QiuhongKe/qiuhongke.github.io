@@ -6,9 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a Senior Lecturer and an ARC DECRA Fellow at Monash University. Prior to this, I was a Postdoctoral Researcher at the Max Planck Institute for Informatics (MPII) and a Lecturer at the University of Melbourne. I received my Ph.D. from the University of Western Australia, where I was primarily supervised by W/Prof Mohammed Bennamoun.
 
-I am a Senior Lecturer and an ARC DECRA Fellow at Monash University. Previously, I was a Postdoctoral Researcher at Max Planck Institute for Informatics (MPII) and a Lecturer at The University of Melbourne. I received the Ph.D. degree from The University of Western Australia under the primary supervision of W/Prof Mohammed Bennamoun.
+My research focuses on computer vision and machine learning, with particular interest in human action recognition, video understanding, generative AI, and multimodal large models.
 
-My research is on computer vision and machine learning, with the special interests in human action recognition, video understanding, generative AI and multimodal large models.
-
-I am looking for self-motivated students for Ph.D./Master degree, RA. Please drop me an email if you are interested.
+I am always looking for self-motivated students to join my group as Ph.D./Master’s students or research assistants. If you're interested, feel free to reach out via email!
