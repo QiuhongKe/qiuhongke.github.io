@@ -7,7 +7,7 @@ author_profile: true
 
 ## Selected Awards and Honours
 
-- **ARC DECRA Fellowship**, for research on generative models for generalised skeleton-based action recognition, 2025–2027
+- **ARC DECRA Fellowship**, for research on generative AI and action recognition, 2025–2027
 - **Academic Exceptional Prize**, Monash University, 2025 
 - **Women Leading Tech Awards** *(Education/Research)*, Atlassian Pty Ltd, 2024  
 - **Lise Meitner Award Postdoctoral Fellowship**, MPII in Germany, 2018-2019
